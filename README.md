@@ -1,13 +1,19 @@
-# vue-demo
+# vue-demo 
+
 
 > A Vue.js project
 
 ## Build Setup
 
 ``` bash
+由于时间原因，只写了部分页面的功能，存在不少bug
 # install dependencies
 npm install
-
+npm install vue-cli –g
+vue init webpack 项目名称
+npm install axios
+npm install mint-ui -S
+npm install js-cookie --save
 # serve with hot reload at localhost:8080
 npm run dev
 
