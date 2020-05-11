@@ -7,7 +7,13 @@
 
 ``` bash
 由于时间原因，只写了部分页面的功能，存在不少bug
-# install dependencies
+
+小程序版本已完成开发，但由于个人主体及资质问题，无法上线，可以扫下方二维码进入体验版（需申请体验权限，申请后会马上给你通过）
+![Image text](https://lsz520.xyz/1.jpg)
+
+
+
+# 安装包
 npm install
 npm install vue-cli –g
 vue init webpack 项目名称
